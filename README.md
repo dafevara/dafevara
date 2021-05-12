@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Senior Software Engineer. 
-I'm focused on Recommender Systems, NLP and Data Engineering. 
+I'm a Senior Software Engineer focused on Back-End Development, Recommender Systems, and Data Engineering. 
 I do my craft with Python, Ruby and R.
 
 Want to work together? Have any question or idea? Let's talk!
