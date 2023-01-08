@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm a Senior Software Engineer focused on Back-End Development, Recommender Systems, and Data Engineering. 
-I do my craft with Python, Ruby and R.
+I do my craft with Python, Ruby and Golang.
 
 Want to work together? Have any question or idea? Let's talk!
