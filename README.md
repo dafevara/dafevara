@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Senior Software Engineer focused on Back-End Development, Recommender Systems, and Data Engineering. 
-I do my craft with Python, Ruby and Rust.
+I'm a Software Engineer focused on Technical Leadership, Strategic Product Vision and Agentic Software Engineering.
 
 Want to work together? Have any question or idea? Let's talk!
